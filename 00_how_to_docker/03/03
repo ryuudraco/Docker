@@ -1,1 +1,3 @@
+TEST: docker-machine ls
+
 eval $(docker-machine env Char)

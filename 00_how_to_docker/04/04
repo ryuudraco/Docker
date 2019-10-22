@@ -1,1 +1,3 @@
+TEST: docker images
+
 docker pull hello-world

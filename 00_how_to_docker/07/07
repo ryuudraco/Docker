@@ -1,1 +1,5 @@
+TEST: exit
+TEST: docker ps -a
+
+
 docker inspect -f '{{.NetworkSettings.IPAddress}}' overlord

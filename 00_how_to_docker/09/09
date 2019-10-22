@@ -1,3 +1,7 @@
+TEST: whereis gcc git
+TEST: gcc -v
+TEST: git --version
+
 apt-get update
 apt-get upgrade -y
 apt-get install -y build-essential git
